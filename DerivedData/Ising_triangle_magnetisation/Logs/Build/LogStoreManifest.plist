@@ -5,6 +5,49 @@
 	<key>logFormatVersion</key>
 	<integer>11</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>AE3ACD78-40E9-4856-93AD-37FC4CF938A1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE3ACD78-40E9-4856-93AD-37FC4CF938A1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_triangle_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_triangle_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ising_triangle_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>789763689.85431302</real>
+			<key>timeStoppedRecording</key>
+			<real>789763692.41218603</real>
+			<key>title</key>
+			<string>Build Ising_triangle_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>AE3ACD78-40E9-4856-93AD-37FC4CF938A1</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
