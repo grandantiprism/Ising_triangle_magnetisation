@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'Ising_triangle_magnetisation' in project 'Ising_triangle_magnetisation' (no dependencies)

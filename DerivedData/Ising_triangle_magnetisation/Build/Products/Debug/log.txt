@@ -5,3 +5,73 @@ Num_beta: 20 (0.22 to 0.32)
 Elapsed time: 1.26 seconds
 -----------------------
 
+--- Simulation Log ---
+Date: Sun Jan 11 03:54:43 2026
+L: 64, MCS: 1000, THERM: 1280
+Num_beta: 20 (0.22 to 0.32)
+Elapsed time: 15.80 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Sun Jan 11 04:03:21 2026
+L: 64, MCS: 10000, THERM: 1280
+Num_beta: 20 (0.22 to 0.32)
+Elapsed time: 83.21 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Sun Jan 11 04:09:13 2026
+L: 4, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.22 to 0.32)
+Elapsed time: 84.27 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Sun Jan 11 04:35:32 2026
+L: 8, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.22 to 0.32)
+Elapsed time: 228.81 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Sun Jan 11 06:44:19 2026
+L: 64, MCS: 1000000, THERM: 1280
+Num_beta: 20 (0.22 to 0.32)
+Elapsed time: 7247.95 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Sun Jan 11 10:15:34 2026
+L: 32, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.22 to 0.32)
+Elapsed time: 1971.29 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Sun Jan 11 11:04:04 2026
+L: 16, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.22 to 0.32)
+Elapsed time: 621.88 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Sun Jan 11 12:04:31 2026
+L: 128, MCS: 1000, THERM: 2560
+Num_beta: 20 (0.22 to 0.32)
+Elapsed time: 92.99 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Sun Jan 11 12:55:34 2026
+L: 4, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.22 to 0.32)
+Elapsed time: 83.63 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Sun Jan 11 12:57:42 2026
+L: 4, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.27 to 0.28)
+Elapsed time: 89.67 seconds
+-----------------------
+

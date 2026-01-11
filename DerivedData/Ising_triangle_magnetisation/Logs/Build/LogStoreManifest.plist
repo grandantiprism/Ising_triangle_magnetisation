@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>AE3ACD78-40E9-4856-93AD-37FC4CF938A1</key>
+		<key>B2F34685-F8EA-4BA4-AE01-A2057085CF04</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>AE3ACD78-40E9-4856-93AD-37FC4CF938A1.xcactivitylog</string>
+			<string>B2F34685-F8EA-4BA4-AE01-A2057085CF04.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,13 +40,13 @@
 			<key>signature</key>
 			<string>Build Ising_triangle_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789763689.85431302</real>
+			<real>789796570.85123003</real>
 			<key>timeStoppedRecording</key>
-			<real>789763692.41218603</real>
+			<real>789796571.88954306</real>
 			<key>title</key>
 			<string>Build Ising_triangle_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>AE3ACD78-40E9-4856-93AD-37FC4CF938A1</string>
+			<string>B2F34685-F8EA-4BA4-AE01-A2057085CF04</string>
 		</dict>
 	</dict>
 </dict>
