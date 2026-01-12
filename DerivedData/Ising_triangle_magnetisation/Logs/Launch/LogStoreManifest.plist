@@ -6,10 +6,10 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>9FE920D4-4688-4C69-8ECA-454EFB195EEA</key>
+		<key>EBEA23E8-1B49-42D0-ACD2-F501D4C89F7F</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>B2F34685-F8EA-4BA4-AE01-A2057085CF04</string>
+			<string>3636D403-87EB-4991-ABF6-B344CA95ABF2</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -30,7 +30,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-Ising_triangle_magnetisation-2026.01.11_12-56-10-+0900.xcresult</string>
+			<string>Run-Ising_triangle_magnetisation-2026.01.11_22-00-55-+0900.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -59,13 +59,13 @@
 			<key>signature</key>
 			<string>Run Ising_triangle_magnetisation</string>
 			<key>timeStartedRecording</key>
-			<real>789796570.85110295</real>
+			<real>789829255.80420804</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run Ising_triangle_magnetisation</string>
 			<key>uniqueIdentifier</key>
-			<string>9FE920D4-4688-4C69-8ECA-454EFB195EEA</string>
+			<string>EBEA23E8-1B49-42D0-ACD2-F501D4C89F7F</string>
 		</dict>
 	</dict>
 </dict>

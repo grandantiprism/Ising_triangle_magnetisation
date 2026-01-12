@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "526FCEC4409F71B74D527394F58E79579BEB60EC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "526FCEC4409F71B74D527394F58E79579BEB60EC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E26AD8AB-2ADB-427D-A634-C6DF9A093BA0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "526FCEC4409F71B74D527394F58E79579BEB60EC" : "Ising_triangle_magnetisation\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Ising_triangle_magnetisation",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Ising_triangle_magnetisation.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/grandantiprism\/Ising_triangle_magnetisation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "526FCEC4409F71B74D527394F58E79579BEB60EC"
+    }
+  ]
+}
