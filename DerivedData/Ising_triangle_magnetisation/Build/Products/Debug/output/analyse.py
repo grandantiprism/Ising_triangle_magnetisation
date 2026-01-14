@@ -69,7 +69,7 @@ def plot_all_sizes(root_dir):
                      alpha=0.8)
 
     # 理論的な臨界点
-    beta_c = 0.2746
+    beta_c = 0.25 * np.log(3.0)
     plt.axvline(x=beta_c, color='black', linestyle='--', alpha=0.6, label=f'Theory βc ≈ {beta_c:.4f}')
 
     plt.title('Binder Cumulant Crossing', fontsize=14)
