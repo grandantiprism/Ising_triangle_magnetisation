@@ -48,6 +48,132 @@
 			<key>uniqueIdentifier</key>
 			<string>3636D403-87EB-4991-ABF6-B344CA95ABF2</string>
 		</dict>
+		<key>761466B8-4BAD-43C9-90D2-A2BA65666334</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>761466B8-4BAD-43C9-90D2-A2BA65666334.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_triangle_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_triangle_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ising_triangle_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790435115.97336102</real>
+			<key>timeStoppedRecording</key>
+			<real>790435124.84878302</real>
+			<key>title</key>
+			<string>Build Ising_triangle_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>761466B8-4BAD-43C9-90D2-A2BA65666334</string>
+		</dict>
+		<key>AECC8AC4-91F5-4741-B8F7-5DA27A591D4F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AECC8AC4-91F5-4741-B8F7-5DA27A591D4F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_triangle_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_triangle_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ising_triangle_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790411715.00350595</real>
+			<key>timeStoppedRecording</key>
+			<real>790411717.48657596</real>
+			<key>title</key>
+			<string>Build Ising_triangle_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>AECC8AC4-91F5-4741-B8F7-5DA27A591D4F</string>
+		</dict>
+		<key>E9322DF3-16C5-4679-96FC-1FB6BA79C266</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E9322DF3-16C5-4679-96FC-1FB6BA79C266.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Ising_triangle_magnetisation project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Ising_triangle_magnetisation</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Ising_triangle_magnetisation</string>
+			<key>timeStartedRecording</key>
+			<real>790441723.22484004</real>
+			<key>timeStoppedRecording</key>
+			<real>790441725.89748299</real>
+			<key>title</key>
+			<string>Build Ising_triangle_magnetisation</string>
+			<key>uniqueIdentifier</key>
+			<string>E9322DF3-16C5-4679-96FC-1FB6BA79C266</string>
+		</dict>
 	</dict>
 </dict>
 </plist>

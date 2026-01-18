@@ -124,3 +124,24 @@ Num_beta: 20 (0.265 to 0.285)
 Elapsed time: 30385.98 seconds
 -----------------------
 
+--- Simulation Log ---
+Date: Sun Jan 18 22:15:35 2026
+L: 96, MCS: 1000000, THERM: 1920
+Num_beta: 20 (0.265 to 0.285)
+Elapsed time: 23217.23 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Mon Jan 19 00:07:59 2026
+L: 48, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.265 to 0.285)
+Elapsed time: 6554.23 seconds
+-----------------------
+
+--- Simulation Log ---
+Date: Mon Jan 19 00:41:33 2026
+L: 24, MCS: 1000000, THERM: 1000
+Num_beta: 20 (0.265 to 0.285)
+Elapsed time: 1966.79 seconds
+-----------------------
+
